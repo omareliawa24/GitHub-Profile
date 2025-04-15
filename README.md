@@ -4,7 +4,7 @@
 🎯 Aspiring Backend Developer | .NET Enthusiast  
 💻 Passionate about building robust web apps with ASP.NET MVC  
 🚀 Currently working on personal projects to sharpen my skills  
-📫 Reach me at: omar.saeed@example.com
+📫 Reach me at: omareliawa2024@gmail.com
 
 ### 💼 Tech Stack
 - ⚙️ Languages: C#, SQL, JavaScript
